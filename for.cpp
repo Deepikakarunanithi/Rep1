@@ -11,7 +11,7 @@ int main ()
       
     }
 
-std::cout<<"Loop was done !"<<std::endl;
+
   return 0;
 }
 
