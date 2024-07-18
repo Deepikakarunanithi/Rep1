@@ -4,7 +4,7 @@
 int main ()
 {
 
-  for( i= 0 ; i< 109 ; i++)
+  for(int i= 0 ; i< 109 ; i++)
     {
 
       std::cout<<"[" <<i <<"]" <<" Deeps !"<<std::endl;
